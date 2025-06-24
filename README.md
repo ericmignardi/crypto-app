@@ -1,6 +1,34 @@
 ## Screenshots
 
-![Index](./src/assets/screenshot.png)
+![Home Page](./src/assets/screenshot.png)
+![Details Page](./src/assets/screenshot1.png)
+
+## 🎯 Project Overview
+
+CryptoDash is a fast, modern web app built with **React** and **Vite** that provides real-time cryptocurrency market data sourced from the CoinGecko API.  
+Designed with performance and usability in mind, it allows users to explore coin prices, filter by currency, and monitor market trends seamlessly.
+
+Whether you're a casual crypto enthusiast or a trader, CryptoDash offers an intuitive and responsive experience — with clean UI and lightning-fast updates.
+
+---
+
+## 💡 Key Features
+
+- 🔄 Live updates of coin prices and market caps
+- 🔍 Search and filter by currency name
+- 📊 Responsive design for desktop and mobile
+- ⚡ Built with Vite for ultra-fast development and deployment
+- 🔐 Secure API key handling using environment variables
+
+---
+
+## 🛠️ Technologies Used
+
+- **React 18** — UI Library
+- **Vite** — Next-gen frontend tooling and bundler
+- **CoinGecko API** — Real-time crypto data source
+- **CSS Modules** — Scoped, maintainable styles
+- **Render.com** — Cloud deployment platform
 
 # React + Vite
 
