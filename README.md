@@ -1,5 +1,3 @@
-# Name: crypto-app
-
 ## 🎯 Project Overview
 
 crypto-app is a fast, modern web app built with **React** and **Vite** that provides real-time cryptocurrency market data sourced from the CoinGecko API.
