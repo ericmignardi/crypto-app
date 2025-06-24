@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from "react";
 import "./Coin.css";
 import { useParams } from "react-router-dom";
 import { CoinContext } from "../../contexts/CoinContext";
-import LineChart from "../../components/Navbar/LineChart/LineChart";
+import LineChart from "../../components/LineChart/LineChart";
 
 const Coin = () => {
   const { coinId } = useParams();
