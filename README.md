@@ -5,12 +5,7 @@
 
 ## 🎯 Project Overview
 
-CryptoDash is a fast, modern web app built with **React** and **Vite** that provides real-time cryptocurrency market data sourced from the CoinGecko API.  
-Designed with performance and usability in mind, it allows users to explore coin prices, filter by currency, and monitor market trends seamlessly.
-
-Whether you're a casual crypto enthusiast or a trader, CryptoDash offers an intuitive and responsive experience — with clean UI and lightning-fast updates.
-
----
+crypto-app is a fast, modern web app built with **React** and **Vite** that provides real-time cryptocurrency market data sourced from the CoinGecko API.
 
 ## 💡 Key Features
 
@@ -19,8 +14,6 @@ Whether you're a casual crypto enthusiast or a trader, CryptoDash offers an intu
 - 📊 Responsive design for desktop and mobile
 - ⚡ Built with Vite for ultra-fast development and deployment
 - 🔐 Secure API key handling using environment variables
-
----
 
 ## 🛠️ Technologies Used
 
