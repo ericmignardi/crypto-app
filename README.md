@@ -20,7 +20,7 @@ crypto-app is a fast, modern web app built with **React** and **Vite** that prov
 - **CSS Modules** — Scoped, maintainable styles
 - **Render.com** — Cloud deployment platform
 
-## Screenshots
+## 📸 Screenshots
 
 ![Home Page](./src/assets/screenshot.png)
 ![Details Page](./src/assets/screenshot1.png)
